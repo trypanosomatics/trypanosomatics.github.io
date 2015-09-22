@@ -24,14 +24,14 @@ diagnósticos en estos organismos.
 **Actuales:**
 
  * Dr. Fernán Agüero, Investigador Independiente CONICET. 
- * Dr. Raúl Cosentino, Formación Postdoctoral UNSAM.
- * Lic. Santiago Carmona, Estudiante de Doctorado, Becario CONICET.
+ * Ing Laura Lazzati, Estudiante de Doctorado.
  * Diego Ramoa, Estudiante de Licenciatura (Bioinformática), Universidad Nacional de Entre Ríos
  * Mauricio Brunner, Estudiante de Licenciatura (Bioinformática), Universidad Nacional de Entre Ríos
-
+ * Leonel Bracco, Pasante, Ingeniería en Agrobiotecnología (UNSAM).
 
 **Pasados:**
-
+ * Dr. Raúl Cosentino, Becario Doctoral y Postdoctoral (2009-2015). Posición actual: Postdoctoral fellow, Institute for Molecular Infection Biology, Universität Würzburg, Germany.
+ * Dr. Santiago Carmona, Estudiante de Doctorado (2010-2015). Posición actual: Postdoctoral fellow, Computational Cancer Biology Lab, Ludwig Center for Cancer Research, University of Lausanne, Switzerland.
   * Dra. María Paula Magariños, Becaria Doctoral (2009-2014). Posición actual: Becaria postdoctoral, European Bioinformatics Institute - European Molecular Biology Laboratory (EBI-EMBL), ChEMBL Group, Hinxton, Cambridge, UK.
   * Dr. Leonardo Panunzi, Becario Doctoral y Postdoctoral (2007-2014). Posición actual: Becario postdoctoral, Centre d'Immunologie de Marseille-Luminy, Marseille, France.
   * María Carolina Dalmasso, Becaria postdoctoral (codirigida, 2010-2012). Posición actual: Investigadora Asistente, Fundación Instituto Leloir, Buenos Aires, Argentina.
@@ -61,6 +61,7 @@ diagnósticos en estos organismos.
  * Dr. Sergio Angel, IIB-INTECH UNSAM-CONICET
  * Dr. Oscar Campetella, IIB-INTECH UNSAM-CONICET
  * Dr. Carlos Buscaglia, IIB-INTECH UNSAM-CONICET
+ * Dr. Alberto Carlos Frasch, IIB-INTECH UNSAM-CONICET
 
 *** 
 
