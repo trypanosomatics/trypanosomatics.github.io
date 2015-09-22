@@ -30,6 +30,7 @@ diagnósticos en estos organismos.
  * Leonel Bracco, Pasante, Ingeniería en Agrobiotecnología (UNSAM).
 
 **Pasados:**
+
  * Dr. Raúl Cosentino, Becario Doctoral y Postdoctoral (2009-2015). Posición actual: Postdoctoral fellow, Institute for Molecular Infection Biology, Universität Würzburg, Germany.
  * Dr. Santiago Carmona, Estudiante de Doctorado (2010-2015). Posición actual: Postdoctoral fellow, Computational Cancer Biology Lab, Ludwig Center for Cancer Research, University of Lausanne, Switzerland.
   * Dra. María Paula Magariños, Becaria Doctoral (2009-2014). Posición actual: Becaria postdoctoral, European Bioinformatics Institute - European Molecular Biology Laboratory (EBI-EMBL), ChEMBL Group, Hinxton, Cambridge, UK.
